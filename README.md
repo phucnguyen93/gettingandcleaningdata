@@ -10,6 +10,7 @@ This is the source code for course project Getting and Cleaning Data. R script c
   
 How to work on this course project
   1. Download the dataset if it does not already exist in the working directory.
+  2. Unzip file and change folder name from "UCI HAR Dataset" to "UCIHARDataset" (no space)
   2. Change your working directory into folder consist of run_analytics.R and dataset.
   3. Run run_analytics.R.
   
